@@ -15,3 +15,6 @@ The following tools were used in the construction of the project:
 
 # Clone this repository
 $ git clone <https://github.com/guilherme-vaz/covid-dash> and run using any browser
+
+----------
+Aplicação feita para o Trabalho prático do primeiro módulo do Bootcamp React Developer IGTI
